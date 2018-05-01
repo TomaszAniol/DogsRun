@@ -1,0 +1,36 @@
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\bin\Debug\225b.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\obj\Debug\_225b.Form1.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\obj\Debug\_225b.Properties.Resources.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.csproj.GenerateResource.Cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\bin\Debug\225b.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\bin\Debug\225b.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.pdb
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\bin\Debug\225b.exe.config
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.exe
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.pdb
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\bin\Debug\225b.exe
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\bin\Debug\225b.pdb
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\obj\Debug\_225b.Form1.resources
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\obj\Debug\_225b.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Visual Studio 2015\Projects\225b\225b\obj\Debug\225b.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\wyscigi\225b\bin\Debug\225b.exe.config
+C:\Users\Tomek\Desktop\wyscigi\225b\obj\Debug\225b.exe
+C:\Users\Tomek\Desktop\wyscigi\225b\obj\Debug\225b.pdb
+C:\Users\Tomek\Desktop\wyscigi\225b\bin\Debug\225b.exe
+C:\Users\Tomek\Desktop\wyscigi\225b\bin\Debug\225b.pdb
+C:\Users\Tomek\Desktop\wyscigi\225b\obj\Debug\225b.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\wyscigi\225b\obj\Debug\_225b.Form1.resources
+C:\Users\Tomek\Desktop\wyscigi\225b\obj\Debug\_225b.Properties.Resources.resources
+C:\Users\Tomek\Desktop\wyscigi\225b\obj\Debug\225b.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\bin\Debug\225b.exe.config
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\bin\Debug\225b.exe
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\bin\Debug\225b.pdb
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\obj\Debug\225b.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\obj\Debug\_225b.Form1.resources
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\obj\Debug\_225b.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\obj\Debug\225b.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\obj\Debug\225b.exe
+C:\Users\Tomek\Desktop\Java\wyscigi\225b\obj\Debug\225b.pdb
